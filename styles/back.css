@@ -1,0 +1,79 @@
+.back{
+    width: 1690px;
+    height: 609px;
+    background: #070211;
+    margin-top: 10%;
+}
+.backf1{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 3%;
+
+}
+.f1{
+    color: #FFF;
+}
+.text1{
+    margin-top: 17%;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    line-height: 40px;
+}
+
+.call{
+    display: flex;
+    gap: 5px;
+    width: 195px;
+    height: 40px;
+    padding-top: 10%;
+}
+
+.call-img{
+    width: 24px;
+    height: 24px;
+    margin-top: 17%;
+}
+.no{
+    font-size: 24px;
+    line-height: 40px;
+}
+
+.web{
+    display: flex;
+    gap: 5px;
+    width: 195px;
+    height: 40px;
+    padding-top: 10%;
+}
+
+.weba{
+    font-size: 24px;
+    line-height: 40px;
+}
+
+.f2{
+    margin-top: 5%;
+    text-align: center;
+    margin-left: 6%;
+}
+
+.f3{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 6%;
+}
+
+.text2{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    max-width: 295px;
+}
+
+.text3{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    max-width: 295px;
+}
